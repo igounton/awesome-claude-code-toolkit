@@ -834,7 +834,7 @@ Thirteen curated Model Context Protocol server configurations.
 | Design | [`design.json`](mcp-configs/design.json) | Figma design context, Blender 3D automation |
 | Workflow Automation | [`workflow-automation.json`](mcp-configs/workflow-automation.json) | n8n workflow builder, Pipedream integration |
 | Mobile | [`mobile.json`](mcp-configs/mobile.json) | Android ADB automation, Xcode build tools |
-| Finance | [`finance.json`](mcp-configs/finance.json) | Chart Library pattern intelligence, Fetch, Memory |
+| Finance | [`finance.json`](mcp-configs/finance.json) | Helium news/markets/options, Chart Library pattern intelligence, Fetch, Memory |
 
 ---
 
