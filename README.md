@@ -475,13 +475,13 @@ One hundred thirty-five specialized agents organized into ten categories. Each a
 | Benchmarking Specialist | [`benchmarking-specialist.md`](agents/research-analysis/benchmarking-specialist.md) | Performance benchmarks, comparative evals |
 | Technology Scout | [`technology-scout.md`](agents/research-analysis/technology-scout.md) | Emerging tech evaluation, build-vs-buy analysis |
 | agntk | [npx agntk](https://github.com/Phoenixrr2113/agntk) | Zero-config AI agent CLI with 20+ tools, persistent memory, Ollama auto-detection, and free tier |
+| [qa-orchestra](https://github.com/Anasss/qa-orchestra) | | Multi-agent QA toolkit with 10 specialized agents — orchestrator, environment-manager, functional-reviewer, test-scenario-designer, browser-validator, automation-writer, manual-validator, bug-reporter, release-analyzer, smart-test-selector. Stack-agnostic, output-chained, live validation via Chrome MCP |
 
 ### Using Agents
 
 Reference an agent in your `CLAUDE.md`:
 
-```markdown| [qa-orchestra](https://github.com/Anasss/qa-orchestra) | | Multi-agent QA toolkit with 10 specialized agents — orchestrator, environment-manager, functional-reviewer, test-scenario-designer, browser-validator, automation-writer, manual-validator, bug-reporter, release-analyzer, smart-test-selector. Stack-agnostic, output-chained, live validation via Chrome MCP |
-
+```markdown
 ## Agents
 - Use `agents/core-development/fullstack-engineer.md` for feature development
 - Use `agents/quality-assurance/code-reviewer.md` for PR reviews
