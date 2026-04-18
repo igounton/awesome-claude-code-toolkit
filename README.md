@@ -961,6 +961,7 @@ claude-code-toolkit/               850+ files
 | [docker-claude-code](https://github.com/gw0/docker-claude-code) | new | Run Claude Code in an isolated Docker container with multi-profile support, security hardening, best-practice defaults, a set of pre-installed plugin/skill bundles and remote dev support. Drop-in replacement for `claude` — a simple shell alias is all it takes. |
 | [amux](https://github.com/mixpeek/amux) | new | Open-source agent multiplexer for running dozens of parallel Claude Code sessions with web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file |
 | [cc-token-status](https://github.com/echowonderfulworld/cc-token-status) | new | macOS menu bar dashboard for Claude Code. Shows plan usage limits, costs, tokens, trends, model breakdown, and multi-machine sync via iCloud. Single Python file, auto-updates |
+| [Watchfire](https://github.com/watchfire-io/watchfire) | 33 | Orchestration platform for AI coding agents (starting with Claude Code). Manages project context, breaks work into tasks, runs agents with full codebase awareness. Git worktree isolation, sandboxed execution, multiple agent modes (chat, task, autonomous). Go daemon + CLI/TUI + Electron GUI |
 
 ---
 
