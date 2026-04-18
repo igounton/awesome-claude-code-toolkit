@@ -595,6 +595,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [j4rk0r/claude-skills](https://github.com/j4rk0r/claude-skills) | `npx skills add j4rk0r/claude-skills --yes --global` | 3 expert-grade skills: skill-guard (9-layer security auditor), skill-advisor (smart routing with gap analysis), skill-learner (persistent error correction). All A+ 120/120 on skill-judge |
 | [SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) | `git clone https://github.com/jaechang-hits/SciAgent-Skills` | 197 life science skills for Claude Code covering genomics, proteomics, drug discovery, and more. BixBench 92.0% accuracy. |
 | [manage-skills](https://github.com/umutbozdag/agent-skills-manager/tree/main/skills/manage-skills) | `cp -r skills/manage-skills ~/.claude/skills/manage-skills` | Discover, create, edit, toggle, copy, move, and delete agent skills across 11 tools (Cursor, Claude, Windsurf, Copilot, Codex, Cline, Aider, Continue, Roo Code, Augment) from the terminal |
+| [SuperSEO Skills](https://github.com/inhouseseo/superseo-skills) | `/plugin marketplace add inhouseseo/superseo-skills` | 11 SEO skills for page audits, content briefs, article writing, E-E-A-T audits, semantic gap analysis, featured snippets, topic clusters, and link building. Each skill fetches pages and reads top-ranking competitors itself, so no keyword exports are needed. |
 
 ### Installing Skills
 
