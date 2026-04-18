@@ -1048,6 +1048,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 17,600+ | Manus-style persistent markdown planning skill for structured project management |
 | [claude-hud](https://github.com/jarrodwatts/claude-hud) | 15,200+ | Plugin showing context usage, active tools, running agents, todo progress in a HUD overlay |
 | [codachi](https://github.com/vincent-k2026/codachi) | New | Tamagotchi-style statusline pet that grows with context usage, shows cache hit rate and burn speed |
+| [claude-code-memory-guide](https://github.com/Acteq1391gp/claude-code-memory-guide) | 2 | Zero-to-production memory setup: CLAUDE.md + MEMORY.md + MemPalace semantic search + session hooks + warm-model daemon + nightly Karpathy compile with free-LLM key rotation. Three guides — linear tutorial, memory format reference, automation reference. Runnable scripts, secrets-in-git precommit guard, end-to-end verification checklist. MIT |
 | [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 15,600+ | 100+ specialized Claude Code subagents organized by domain |
 | [serena](https://github.com/oraios/serena) | 22,200+ | Semantic retrieval and editing MCP server for coding agents -- code-aware search and navigation |
 | [Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 7,000+ | Turns any codebase into an interactive knowledge graph for exploration |
