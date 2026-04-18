@@ -1115,3 +1115,19 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 [Apache-2.0](LICENSE)
 | [AutoSearch](https://github.com/0xmariowu/Autosearch) | new | Self-evolving deep research plugin for Claude Code -- 32 dedicated search channels (arXiv, GitHub, Reddit, HN, zhihu, bilibili, CSDN + 25 more), LLM-scored evaluation, cited reports in Markdown/HTML/Slides, cross-session learning. Zero API keys required |
+
+
+---
+
+## SKY-lv Skills
+
+30+ battle-tested OpenClaw skills for agent development. MIT Licensed.
+
+- [skylv-agent-evaluator](https://github.com/SKY-lv/agent-evaluator) - Score agent behavior
+- [skylv-metacognition-engine](https://github.com/SKY-lv/metacognition-engine) - Self-reflection
+- [skylv-self-healing-agent](https://github.com/SKY-lv/self-healing-agent) - Auto-repair errors
+- [skylv-cost-guard](https://github.com/SKY-lv/cost-guard) - API cost optimization
+- [skylv-browser-automation-agent](https://github.com/SKY-lv/browser-automation-agent) - Browser automation
+- [skylv-diff-viewer](https://github.com/SKY-lv/diff-viewer) - Diff comparison
+
+[ClawHub](https://clawhub.ai/skylv) | [Landing](https://sky-lv.github.io/awesome-openclaw-skills)
