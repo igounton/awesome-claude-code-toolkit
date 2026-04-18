@@ -269,6 +269,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [visual-regression](plugins/visual-regression/) | Visual regression testing with screenshot comparison |
 | [wshobson/agents](https://github.com/wshobson/agents) | 112 specialized agents, 16 multi-agent workflow orchestrators, 146 skills, 79 tools in 72 focused plugins. 31,300+ stars |
 | [web-dev](plugins/web-dev/) | Full-stack web development with app scaffolding and page generation |
+| [whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) | WhatsApp channel plugin for Claude Code -- connects as a linked device via Baileys v7 with bidirectional messaging, full media support, voice transcription, permission relay, and access control |
 | [workflow-optimizer](plugins/workflow-optimizer/) | Development workflow analysis and optimization recommendations |
 | [background-timer](https://github.com/culminationAI/background-timer) | Background timer with task notifications -- set delayed checks without blocking conversation |
 | [claude-sounds](https://github.com/culminationAI/claude-sounds) | Audio feedback for Claude Code hooks -- 10 events, 21 sounds, random rotation, customizable (macOS) |
