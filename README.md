@@ -605,6 +605,8 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [manage-skills](https://github.com/umutbozdag/agent-skills-manager/tree/main/skills/manage-skills) | `cp -r skills/manage-skills ~/.claude/skills/manage-skills` | Discover, create, edit, toggle, copy, move, and delete agent skills across 11 tools (Cursor, Claude, Windsurf, Copilot, Codex, Cline, Aider, Continue, Roo Code, Augment) from the terminal |
 | [SuperSEO Skills](https://github.com/inhouseseo/superseo-skills) | `/plugin marketplace add inhouseseo/superseo-skills` | 11 SEO skills for page audits, content briefs, article writing, E-E-A-T audits, semantic gap analysis, featured snippets, topic clusters, and link building. Each skill fetches pages and reads top-ranking competitors itself, so no keyword exports are needed. |
 
+| [buyer-eval](https://github.com/salespeak-ai/buyer-eval-skill) | `git clone https://github.com/salespeak-ai/buyer-eval-skill ~/.claude/skills/buyer-eval-skill` | Structured, evidence-based B2B software vendor evaluation — researches your company, asks domain-expert questions, engages vendor AI agents via the Salespeak Frontdoor API, scores vendors across 7 dimensions with evidence transparency, produces comparative scorecards with demo prep questions |
+
 ### Installing Skills
 
 **Browse and install via SkillKit** (recommended):
