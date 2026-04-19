@@ -625,6 +625,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [Coware](https://github.com/shitianfang/coware-skills) | `npx skills add shitianfang/coware-skills` | Syncs shared API specs across AI coding agents — prevents merge conflicts from mismatched interfaces, field names, or return types. Auto-pulls latest specs, walks agents through setup for new projects |
 | [humanize-chinese](https://github.com/voidborne-d/humanize-chinese) | `clawhub install humanize-chinese` | Detects and rewrites AI-generated Chinese text. Two-layer detection (20+ rule dimensions + N-gram perplexity), 0-100 scoring, 7 style transforms, academic paper AIGC reduction. 4 slash commands: /detect, /humanize, /academic, /style |
 | [BeHuman](https://github.com/voidborne-d/behuman) | `clawhub install behuman` | Adds inner dialogue to AI responses via Self-Mirror consciousness loop — Self generates instinctive response, Mirror exposes filler/performative empathy, Self revises into real human reply. Based on Lacan's Mirror Stage, Kahneman's Dual Process Theory. MIT |
+| [planmysaas](https://github.com/creationskiro/planmysaas-claude-skill) | `git clone https://github.com/creationskiro/planmysaas-claude-skill ~/.claude/skills/planmysaas` | Turns idea to a complete 8-stage SaaS blueprint — idea, research, analysis, architecture, features, frontend, phases, build playbook. Stage 8 ships a decision-grade, rubric-graded build playbook with dependency-ordered steps. Plain markdown, MIT, v1.0.0. |
 
 ### Installing Skills
 
