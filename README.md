@@ -301,6 +301,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [Clarvia MCP](https://github.com/clarvia-project/scanner) | MCP quality scanner — scans any MCP server, returns AEO (Agent Engine Optimization) score. Indexes 27,843+ tools for instant lookup. 24 MCP tools (search, scan, compare, leaderboard, trending). `npx -y clarvia-mcp-server` |
 | [OraClaw](https://github.com/Whatsonyourmind/oraclaw) | Decision intelligence MCP server — 12 tools with 19 ML algorithms (multi-armed bandits, constraint solvers, forecasters, risk models, Q-learning, A*, simulated annealing). Sub-25ms responses, deterministic, 945 tests. `npx @oraclaw/mcp-server` |
 | [US Business Data MCP](https://github.com/avabuildsdata/mcp-us-business-data) | MCP server for US business data — search entities across 17 state Secretary of State databases, YellowPages leads, building permits from 47 cities, 20+ federal APIs (SEC, FDA, FEMA). Built in Go, on MCP Registry |
+| [craft-statusline](https://github.com/derjochenmeyer/claude-code-craft-statusline) | Bash statusline plugin for Claude Code with state-aware git branch (ahead / behind / stashed / conflict / combined signals), context window with absolute-token traffic light (yellow at 400k tokens, red at 85%), 5h/7d rate limits, and optional cost. Bash 3.2 compatible, jq is the only dependency. Install: `/plugin marketplace add derjochenmeyer/claude-code-craft-statusline` |
 
 ### Installing a Plugin
 
