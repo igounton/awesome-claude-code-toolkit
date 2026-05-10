@@ -105,6 +105,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [api-benchmarker](plugins/api-benchmarker/) | API endpoint benchmarking and performance reporting |
 | [api-reference](plugins/api-reference/) | API reference documentation generation from source code |
 | [api-tester](plugins/api-tester/) | Test API endpoints and run load tests against services |
+| [ashlr-plugin](https://github.com/ashlrai/ashlr-plugin) | Open-source Claude Code plugin replacing the built-in Read/Grep/Edit/Bash tools with token-efficient versions backed by `@ashlr/core-efficiency`. Independently benchmarked at 57% token reduction on real codebases. 70+ tools across glob, grep, structural diff/edit, and an opt-in genome (LSP-style codebase index). Install: `curl -fsSL plugin.ashlr.ai/install.sh \| bash` |
 | [aws-helper](plugins/aws-helper/) | AWS service configuration and deployment automation |
 | [azure-helper](plugins/azure-helper/) | Azure service configuration and deployment automation |
 | [backend-architect](plugins/backend-architect/) | Backend service architecture design with endpoint scaffolding |
