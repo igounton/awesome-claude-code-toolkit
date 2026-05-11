@@ -1016,6 +1016,7 @@ claude-code-toolkit/               850+ files
 | [aby-claude-watcher](https://github.com/aby-agency/aby-claude-watcher) | new | Real-time macOS dashboard for Claude Code sessions. Five color-coded states (thinking, running, waiting, error, completed), per-session notifications, one-click focus terminal across iTerm2/Terminal/Warp/VSCode/Cursor/Ghostty/kitty/WezTerm/Hyper. Bilingual FR/EN, menu-bar tray, MIT licensed. Apple Silicon + Intel builds |
 | [cc-config-viewer](https://github.com/kuri-sun/cc-config-viewer) | new | Browser UI for Claude Code config. View and edit settings, rules, commands, agents, skills, and plugins across all four scopes (Managed / User / Project / Local), with a "Resolved" view of the merged effective settings. |
 | [cctally](https://github.com/omrikais/cctally) | new | Track Claude Code subscription usage as a weekly $-per-1% trend. Local web dashboard, terminal UI, forecasts, threshold alerts. Apache-2.0, zero telemetry. |
+| [claude-code-notifier](https://github.com/saiso/claude-code-notifier) | new | Native macOS notifier for Claude Code. Swift + UserNotifications, custom Heroicons-derived icon (SF Symbols–free), click-through to your IDE (VS Code, Cursor, Windsurf, JetBrains, iTerm2, Terminal) via bundle ID swap, per-event sound labels, hardened inputs (allowlists, length caps, control-character stripping). Universal binary (arm64 + x86_64), macOS 12+, MIT |
 
 ---
 
