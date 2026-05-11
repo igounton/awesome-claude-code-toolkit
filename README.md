@@ -1108,6 +1108,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [claudecode-harness](https://github.com/AdelElo13/claude-harness) | new | One-command installer for production-grade Claude Code setup — 34 hooks (quality gates, auto-formatting, security monitoring, session memory), 36 agents, 77 rules across 13 languages, 27 MCP server templates. Zero deps, MIT. `npx claudecode-harness` |
 | [claudex-setup](https://github.com/DnaFin/claudex) | new | Audit and optimize any project for Claude Code — scores 0-100, auto-fixes configuration across 972 verified techniques. Zero deps. `npx claudex-setup` |
 | [Agent Sessions](https://github.com/jazzyalex/agent-sessions) | 495+ | Native macOS app to search, browse, and resume Claude Code, Codex, Gemini CLI, OpenCode, and other local agent sessions, with Agent Cockpit live iTerm2 orchestration |
+| [Claude Code Skills 中文精选集](https://claude-skills.bt199.com/) | -- | Chinese curated directory of 140+ Claude Code Skills, Agents, Plugins, and workflows for Chinese-speaking Claude Code users |
 
 ---
 
