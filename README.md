@@ -652,6 +652,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [qovery-deploy](https://github.com/Qovery/qovery-skills) | `curl -fsSL https://skill.qovery.com/install.sh \| bash` | Deploy any app to Kubernetes (AWS EKS, GCP GKE, Azure AKS, Scaleway). Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, auto-fixes failures. Also has [MCP Server](https://mcp.qovery.com/mcp). |
 | [planmysaas](https://github.com/creationskiro/planmysaas-claude-skill) | `git clone https://github.com/creationskiro/planmysaas-claude-skill ~/.claude/skills/planmysaas` | Turns idea to a complete 8-stage SaaS blueprint — idea, research, analysis, architecture, features, frontend, phases, build playbook. Stage 8 ships a decision-grade, rubric-graded build playbook with dependency-ordered steps. Plain markdown, MIT, v1.0.0. |
 | [agentkit-seo](https://github.com/agentkit-seo/agentkit-seo) | `npx agentkit-seo install --provider claude-code` | AI agent skill for auditing and optimizing GitHub profiles and repositories. Covers bio, pinned repos, README structure, topics, Copilot instructions, and language stats. |
+| [active-listening](https://github.com/josharsh/active-listening) | `/plugin marketplace add https://github.com/josharsh/active-listening` | Detect developer preferences during conversation ("never push without asking", "always use const") and remember them across sessions. Auto-saves to disk and re-applies in every future conversation |
 
 ### Installing Skills
 
