@@ -263,7 +263,6 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [slack-notifier](plugins/slack-notifier/) | Slack integration for deployment and build notifications |
 | [smart-commit](plugins/smart-commit/) | Intelligent git commits with conventional format, semantic analysis, and changelog generation |
 | [sprint-prioritizer](plugins/sprint-prioritizer/) | Sprint planning with story prioritization and capacity estimation |
-| [tailtest](https://github.com/avansaber/tailtest) | Automatically generates and runs tests for every file Claude Code creates or modifies. PostToolUse hook detects changes, generates scenarios, runs them, and surfaces failures. 8 languages (Python, TypeScript, JavaScript, Go, Ruby, PHP, Java, Rust). Zero config, zero commands. |
 | [technical-sales](plugins/technical-sales/) | Technical demo creation and POC proposal writing |
 | [the-pragmatic-pm](https://github.com/marfoerst/the-pragmatic-pm) | PM leadership toolkit with 43 skills, 5 agents, 4 workflows. Covers PRD generation, OKR lifecycle, pricing, AI pricing, positioning, sales enablement, and quarterly planning. |
 | [terraform-helper](plugins/terraform-helper/) | Terraform module creation and infrastructure planning |
@@ -303,6 +302,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [mobile-spine](https://github.com/bentleypark/claude-code-mobile-spine) | Scaffold for mobile teams whose Android, iOS, and Backend live in separate repos. Coordinates 4 specialized subagents (api / pm / android / ios) with hard repo boundaries via `settings.json` deny rules. `/mobile-spine:init` runs a 6-question interview and writes the full workspace; `/feat` drives a 4-question interview → 4-case classification (existing endpoint / new endpoint / new domain / backend not built). 4-class codebase inventory contract surfaced in every PR (`Inventory: reuse X / extend Y / new Z / remove W`). MIT. |
 | [debian-packaging-agent-skill](https://github.com/cosgroveb/debian-packaging-agent-skill) | Debian packaging skill covering debhelper, debian/rules, package metadata, lintian, and multi-binary packages for Ruby (gem2deb), Python (pybuild), Rust (debcargo), and Go (dh-golang). Loads language-specific reference docs on demand. Apache 2.0 |
 | [unslop](https://github.com/MohamedAbdallah-14/unslop) | Removes AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary). Split lint/rewrite modes — run detection-only passes on your own text without rewriting. Five intensity levels. MIT licensed |
+| [tailtest](https://github.com/avansaber/tailtest) | Automatically generates and runs tests for every file Claude Code creates or modifies. PostToolUse hook detects changes, generates scenarios, runs them, and surfaces failures. 8 languages (Python, TypeScript, JavaScript, Go, Ruby, PHP, Java, Rust). Zero config, zero commands. |
 
 ### Installing a Plugin
 
